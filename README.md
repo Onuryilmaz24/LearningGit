@@ -1,2 +1,3 @@
 # LearningGit
-I am learning coding.
+I am learning coding. I love coding.
+
